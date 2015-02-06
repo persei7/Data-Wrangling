@@ -1,4 +1,4 @@
-# Data-Wrangling
+# Data Wrangling with MongoDB
 Repository for files created in the Udacity course "Data Wrangling With MongoDB"
 
 
